@@ -1,0 +1,15 @@
+.login-form-block{
+    width: 400px;
+    height:400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    background: #fff;
+    padding:30px;
+    border-radius:20px;
+
+}
+
+.login-form-block h1{
+    text-align: center;
+}
